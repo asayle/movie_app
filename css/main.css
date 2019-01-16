@@ -1,0 +1,39 @@
+body {
+		font-family: "Jazz LET";
+		background-image: url("../img/filmreel.jpg");
+		background-repeat: no-repeat;
+		background-size: cover;	
+}
+
+#first {
+	text-align: center;
+	padding-top: 80px;
+	color:black;
+	font-size: 40px;
+
+}
+
+#film {
+	width: 30%;
+	border: 2px solid black;
+	padding: 10px;
+}
+
+#rating {
+	border: 2px solid lightblue;
+	padding: 5px;
+	margin-left: 20px;
+}
+
+.mov {
+	text-align: center;
+	font-size: 40px;
+	border-style: solid;
+	border-width: 5px;
+	width: 48%;
+	display: inline-block;
+}
+
+
+
+
